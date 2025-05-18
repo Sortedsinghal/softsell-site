@@ -1,12 +1,67 @@
-# React + Vite
+# 🧾 SoftSell – One Page Marketing Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my submission for the **Credex Web Development Internship Assignment**.  
+SoftSell is a responsive, animated, modern one-page website built using React, Tailwind CSS, and Vite.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🌐 Live Website: [https://softsell-site-pi.vercel.app](https://softsell-site-pi.vercel.app)  
+📦 GitHub Repository: [https://github.com/Sortedsinghal/softsell-site](https://github.com/Sortedsinghal/softsell-site)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ React + Vite (frontend framework)
+- 🎨 Tailwind CSS (utility-first CSS)
+- 🌀 Framer Motion (for animations)
+- 🌗 Tailwind Dark Mode
+- 🔄 Responsive Layout (mobile + desktop)
+- ☁️ Hosted on Vercel
+
+---
+
+## ✅ Features
+
+- Hero Section with Call-To-Action
+- "How It Works" 3-step Process
+- "Why Choose Us" Feature Tiles
+- Testimonials (2 quotes)
+- Contact Form (name, email, message, dropdown)
+- Fully Responsive
+- Navigation Bar with Scroll-to-Section
+- Dark Mode Toggle
+- Section Animations (slide/fade in on scroll)
+
+---
+
+## ✨ Bonus Features Completed
+
+- ✅ Dark Mode (via Tailwind `dark:` class)
+- ✅ Animated Sections (via Framer Motion)
+- ✅ Clean, modern responsive UI
+- ✅ Hosted Live with Vercel
+
+---
+
+## 🕒 Time Spent
+
+> ~10–12 hours including setup, learning, development, styling, and deployment.
+
+---
+
+## 📂 Project Structure
+
+SOFTSELL-SITE/
+├── public/
+│ └── index.html
+├── src/
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── README.md
