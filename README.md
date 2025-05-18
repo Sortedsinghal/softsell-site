@@ -49,19 +49,3 @@ SoftSell is a responsive, animated, modern one-page website built using React, T
 ## 🕒 Time Spent
 
 > ~10–12 hours including setup, learning, development, styling, and deployment.
-
----
-
-## 📂 Project Structure
-
-SOFTSELL-SITE/
-├── public/
-│ └── index.html
-├── src/
-│ ├── App.jsx
-│ ├── index.css
-│ └── main.jsx
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-└── README.md
