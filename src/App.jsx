@@ -1,9 +1,11 @@
 import { motion } from "framer-motion";
+import ChatWidget from "./components/ChatWidget";
 
 function App() {
 
 
   return (
+    <>
     <div className="min-h-screen pt-20 bg-white dark:bg-gray-900 text-gray-800 dark:text-white font-sans">
 
 
@@ -236,6 +238,8 @@ function App() {
 
 
     </div>
+     <ChatWidget />
+    </>
   );
 }
 
