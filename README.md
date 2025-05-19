@@ -1,6 +1,6 @@
 # 🧾 SoftSell – One Page Marketing Website
 
-This is my submission for the **Credex Web Development Internship Assignment**.  
+  
 SoftSell is a responsive, animated, modern one-page website built using React, Tailwind CSS, and Vite.
 
 ---
